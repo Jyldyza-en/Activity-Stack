@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lesson_34</string>
+    <string name="A">A</string>
+    <string name="button1">START B</string>
+    <string name="B">B</string>
+    <string name="button2">btn_start_C</string>
+    <string name="C">C</string>
+    <string name="button3">btn_start_D</string>
+    <string name="D">D</string>
+</resources>
